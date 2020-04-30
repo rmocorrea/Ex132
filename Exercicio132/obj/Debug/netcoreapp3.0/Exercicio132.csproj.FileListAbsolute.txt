@@ -1,0 +1,11 @@
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.exe
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.deps.json
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.runtimeconfig.json
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.runtimeconfig.dev.json
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.dll
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\bin\Debug\netcoreapp3.0\Exercicio132.pdb
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\obj\Debug\netcoreapp3.0\Exercicio132.csprojAssemblyReference.cache
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\obj\Debug\netcoreapp3.0\Exercicio132.AssemblyInfoInputs.cache
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\obj\Debug\netcoreapp3.0\Exercicio132.AssemblyInfo.cs
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\obj\Debug\netcoreapp3.0\Exercicio132.dll
+C:\Users\silva\source\repos\Exercicio132\Exercicio132\obj\Debug\netcoreapp3.0\Exercicio132.pdb
